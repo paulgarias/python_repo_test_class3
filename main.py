@@ -7,3 +7,6 @@ def hello(args):
 def goodbye(args):
     print(args)
 
+
+def whatsup(args):
+    print(args)
